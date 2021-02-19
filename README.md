@@ -1,2 +1,2 @@
-# DevOps-Bootcamp
-Cloud Native DevOps Bootcamp Course
+# Welcome to Cloud Native DevOps-Bootcamp
+A Cloudskills Course
